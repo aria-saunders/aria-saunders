@@ -2,7 +2,7 @@
 - 👀 I’m interested in web design, data science, and learning more about how the internet works.
 - 🌱 I’m currently learning how to code website applications with Launch School.
 - 🔨 I'm currently working on:
-  - 🌍 Creating a portfolio website from scratch. (https://aria-saunders.github.io/websiteportfolio/)
+  - 🌍 Creating a portfolio website from scratch. (https://aria-saunders.github.io/websiteportfolio/) 
   -🖩🔢 Creating a basic calculator.
   - 🔍 Creating a Buzzfeed style personality quiz.
 

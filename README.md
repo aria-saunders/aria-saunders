@@ -4,7 +4,8 @@
 - 🔨 I'm currently working on:
   - 🌍 Creating a portfolio website from scratch.
   - (https://aria-saunders.github.io/websiteportfolio/) 
-  -🖩🔢 Creating a basic calculator.
+  -🖩
+  - 🔢 Creating a basic calculator.
   - 🔍 Creating a Buzzfeed style personality quiz.
 
 <!---

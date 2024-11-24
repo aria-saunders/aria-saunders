@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to code website applications with Launch School.
 - 🔨 I'm currently working on:
   - 🌍 Creating a portfolio website from scratch.
-  - (https://aria-saunders.github.io/websiteportfolio/) 
+     - (https://aria-saunders.github.io/websiteportfolio/) 
   - 🔢 Creating a basic calculator.
   - 🔍 Creating a Buzzfeed style personality quiz.
 

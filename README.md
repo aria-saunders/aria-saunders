@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aria-saunders
 - 👀 I’m interested in web design, data science, and learning more about how the internet works.
 - 🌱 I’m currently learning how to code website applications with Launch School.
-- 🔨 I'm currently working on:
+- 🔨 I'm presently working on:
   - 🌍 Creating a portfolio website from scratch.
      - (https://aria-saunders.github.io/websiteportfolio/) 
   - 🔢 Creating a basic calculator.
